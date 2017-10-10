@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Person Details</string>
+    <string name="chk_dance" />
+    <string name="chk_painting" />
+    <string name="chk_sports" />
+</resources>
